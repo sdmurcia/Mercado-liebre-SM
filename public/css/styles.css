@@ -210,7 +210,7 @@ footer {
    position: relative;
     background-color: #fff;
     width: 90vw;
-    margin-left: 5vw;
+    left: 5vw;
     bottom: 0;
 }
 
